@@ -7,7 +7,9 @@
 3. [Compilation Pipeline](./03-compilation-pipeline.md) - Multi-stage compilation process
 4. [Performance Optimizations](./04-performance.md) - How Luminal achieves "speed of light"
 5. [Kernel Generation](./05-kernel-generation.md) - GPU code generation and execution
-6. [Shape System](./06-shape-system.md) - ShapeTracker and lazy view system
+6. [Comparison with Mojo](./06-comparison-with-mojo.md) - High-level comparison with Modular Mojo
+7. [Detailed Mojo Comparison](./07-detailed-mojo-comparison.md) - In-depth technical analysis vs Mojo
+8. [ML Compiler Landscape](./08-ml-compiler-landscape.md) - Survey of 12+ ML compiler projects
 
 ## Quick Summary
 
