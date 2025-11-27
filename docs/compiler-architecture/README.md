@@ -10,6 +10,7 @@
 6. [Comparison with Mojo](./06-comparison-with-mojo.md) - High-level comparison with Modular Mojo
 7. [Detailed Mojo Comparison](./07-detailed-mojo-comparison.md) - In-depth technical analysis vs Mojo
 8. [ML Compiler Landscape](./08-ml-compiler-landscape.md) - Survey of 12+ ML compiler projects
+9. [Collective Communication Compilers](./09-collective-communication-compilers.md) - NCCL, MSCCL, and distributed training compilers
 
 ## Quick Summary
 
